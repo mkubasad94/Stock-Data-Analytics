@@ -1,5 +1,11 @@
 Fact table: FactStockPrice
 
+One row represents one stock's trading activity for one trading day
+ex: 
+<img width="672" height="47" alt="image" src="https://github.com/user-attachments/assets/1cb8ca92-c7f0-4b2b-b529-54f53dca97da" />
+
+
+
     Columns: 
       StockKey
       DateKey
