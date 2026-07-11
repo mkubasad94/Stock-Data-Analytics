@@ -1,6 +1,7 @@
 # Stock-Data-Analytics
 
 Objective: Analyze historical stock market data
+
 Business Users: Financial analysts
 
 KPIs:
