@@ -39,5 +39,10 @@ Dimension Tables:
     Columns: 
       SectorKey	
       Sector	
+
+StockKey, DateKey, SectorKey are surrogate keys.
+
+Surrogate keys are generated internally and used for dimension joins instead of natural keys.
+
 <img width="997" height="572" alt="data modelling" src="https://github.com/user-attachments/assets/c413cc45-6e82-4653-a4ad-db350e42bd2e" />
 
